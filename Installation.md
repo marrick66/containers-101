@@ -1,6 +1,6 @@
 # Prerequisites:
 
-Windows Subsystem for Linux 2 (WSL2) must be installed on your Windows machine.  Installation instructions [here]["https://learn.microsoft.com/en-us/windows/wsl/install"]. Also, git should be installed via an IDE or standalone.
+Windows Subsystem for Linux 2 (WSL2) must be installed on your Windows machine.  Installation instructions [here]("https://learn.microsoft.com/en-us/windows/wsl/install"). Also, git should be installed via an IDE or standalone.
 
 # Installation instructions:
 
