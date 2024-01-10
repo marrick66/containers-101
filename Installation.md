@@ -4,10 +4,9 @@ Windows Subsystem for Linux 2 (WSL2) must be installed on your Windows machine. 
 
 # Installation instructions:
 
-1. Clone this repository locally.
-2. Install Python from [here]("https://www.python.org").
-3. Install Podman Desktop using the instructions [here]("https://podman-desktop.io/docs/installation/windows-install").
-4. Configure the Podman setup:
+1. Install Python from [here]("https://www.python.org").
+2. Install Podman Desktop using the instructions [here]("https://podman-desktop.io/docs/installation/windows-install").
+3. Configure the Podman setup:
     
    1. Open Podman Desktop: ![Podman Setup](images/PodmanDesktop1.png)
    
@@ -15,7 +14,7 @@ Windows Subsystem for Linux 2 (WSL2) must be installed on your Windows machine. 
    
    3. Click "Next" until complete: ![Podman Setup](images/PodmanDesktop3.png)
 
-5. Install Podman Compose:
+4. Install Podman Compose:
 
     1. Click on the Settings gear -> Resources: ![Podman Setup](images/PodmanDesktop4.png)
    
