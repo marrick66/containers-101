@@ -78,9 +78,14 @@ In a Linux server, for example, the primary methods used are namespaces. Namespa
 - User: Maps users defined in the container to a range outside of the hosts users. This is to prevent root users in a container from escalating privilege to the host.
 - Chroot: Gives the container an isolated root file system.
 
-## Demos
+## Demo Application
 
-- Running a single container.
-- Building an image.
-- Local composed containers.
-- Inspecting the details.
+To run the demo application, do the following:
+
+1. Open Powershell or a command prompt and change to the top-level repository directory. This should contain the compose.yml file.
+2. Enter "podman compose up" and wait.  You should see something similar to:
+
+![compose status](images/compose-status.png)
+
+3. Go to [http://localhost:8088](http://localhost:8088) to access the web application.
+4. Go to [http://localhost:8085](http://localhost:8085) to access the SMTP server UI.
